@@ -14,7 +14,7 @@ Bruteforce attack for Facebook Account
 >> cd Bangladesh
 >> pip3 install requests bs4
 >> pip install mechanize
->> python3 fb.py or python fb2.py
+>> python2 bangladesh.py
 ```
 
 ## Protection Against Attacker
