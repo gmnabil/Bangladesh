@@ -11,16 +11,11 @@ Bruteforce attack for Facebook Account
 ## Run commands one by one
 ```
 >> git clone https://github.com/gmnabil/Bangladesh
->> cd Facebook-BruteForce
+>> cd Bangladesh
 >> pip3 install requests bs4
 >> pip install mechanize
 >> python3 fb.py or python fb2.py
 ```
-
-## Screenshots
-![CAPTURE 1](https://github.com/gmnabil/Bangladesh/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/gmnabil/Bangladesh/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/gmnabil/Bangladesh/blob/master/Screenshots/Capture3.JPG)
 
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
