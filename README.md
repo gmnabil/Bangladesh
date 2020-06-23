@@ -5,7 +5,7 @@ Bruteforce attack for Facebook Account
 
 ## Install Requirements(Linux)
 ```
->> apt-get install git python3 python3-pip python python-pip
+>> apt-get install git python python2-pip python python-pip
 ```
 
 ## Run commands one by one
@@ -15,6 +15,7 @@ Bruteforce attack for Facebook Account
 >> pip3 install requests bs4
 >> pip install mechanize
 >> python2 bangladesh.py
+>> passwords.txt
 ```
 
 ## Protection Against Attacker
